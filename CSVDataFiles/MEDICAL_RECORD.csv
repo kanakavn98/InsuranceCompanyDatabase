@@ -1,0 +1,22 @@
+Insurance_policy_number,Medical_ID,Treatment_Name,Treatment_Date,Patient_Cost,Insurance_Payment,Total_Cost
+IPN02,MDI648,General Check-up,3/15/2023,$120 ,$70 ,$190 
+IPN02,HDJ789,Physical Therapy,4/13/2023,$50 ,$150 ,$200 
+IPN03,SCC456,Flu Vaccination,5/8/2023,$10 ,$40 ,$50 
+IPN10,WCK789,Fever,7/19/2023,$20 ,$30 ,$50 
+IPN10,OPC321,First aid,8/7/2023,$10 ,$20 ,$30 
+IPN08,PHM234,Dental Cleaning,10/28/2023,$30 ,$90 ,$120 
+IPN12,DHL456,Ear Examination,8/17/2023,$10 ,$50 ,$60 
+IPN14,SPS987,Therapy Session,1/12/2023,$30 ,$120 ,$150 
+IPN19,HDY567,Tooth Extraction,5/8/2023,$50 ,$200 ,$250 
+IPN20,CCJ321,Flu Shot,9/11/2023,$10 ,$30 ,$40 
+IPN21,MCT123,Physical Therapy,9/4/2023,$30 ,$150 ,$180 
+IPN22,HCC789,X-ray,6/13/2023,$30 ,$90 ,$120 
+IPN23,PHS456,CT Scan,4/17/2023,$50 ,$250 ,$300 
+IPN23,JGY379,COVID-19 Treatment,2/2/2023,$200 ,$500 ,$700 
+IPN25,ECS234,"X-Ray,",10/1/2023,$30 ,$90 ,$120 
+IPN26,OCG789,Cardiac Evaluation,1/14/2023,$30 ,$170 ,$200 
+IPN29,SCC567,Physical Therapy,8/18/2023,$40 ,$160 ,$200 
+IPN36,POD961,Knee Surgery,2/7/2023,"$2,000 ","$8,000 ","$10,000 "
+IPN37,MKS748,Blood Pressure Check,7/3/2023,$20 ,$80 ,$100 
+IPN38,ATK902,Deep Vein Thrombosis,10/25/2023,"$1,000 ","$4,000 ","$5,000 "
+IPN40,SJU473,PTSD Treatment,2/1/2023,$100 ,$400 ,$500 

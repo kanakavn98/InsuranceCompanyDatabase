@@ -1,0 +1,18 @@
+School_ID,School_Name,Yearly_Tuition,School_Contact,School_Phone,School_Address,School_City,School_State,School_ZipCode,School_Type
+S001,University of California Los Angeles," $43,012.00 ",Gene D Block,310-825-4321,405 Hilgard Ave,Los Angeles,CA,90095,Public University 
+S002,Moorpark College," $8,146.00 ",Julius Sokenu,805-378-1400,7075 Campus Rd,Moorpark ,CA,93021,Community College 
+S003,California State University Northridge," $18,923.00 ",Erika D Beck,818-677-1200,18111 Nordhoff St,Northridge ,CA,91330,Public University
+S004,University of California Berkley," $43,980.00 ",Carol Christ,510-642-6000,University Avenue and Oxford St,Berkeley,CA,94720,Public University 
+S005,Standford University," $56,169.00 ",Marc Tessier-Lavigne,650-723-2300,450 Jane Stanford way,Stanford,CA,94305,Private University 
+S006,San Jose State University ," $19,732.00 ",Cynthia Teniente-Matson,408-924-1000,1 Washington Sq,San Jose,CA,95192,Public University
+S007,University of Southern California ," $61,503.00 ",Carol Folt,213-740-2311,,Los Angeles,CA,90007,Private University 
+S008,Pierce College," $9,012.00 ",Kathleen Burke,818-719-6404,6201 Winnetka Ave,Woodland Hills,CA,91367,Community College 
+S009,California Institute of Technology," $58,680.00 ",Thomas Felix Rosenbaum,626-395-6811,1200 E California Blvd,Pasdena,CA,91125,Private University 
+S010,New York University," $56,500.00 ",Linda G Mills,212-998-1212,,New York,NY,10012,Private University 
+S011,California State University Long Beach," $18,726.00 ",Jane Close Conoley,562-985-4111,1250 Bellflower Blvd,Long Beach ,CA,90840,Public University 
+S012,The Julliard School," $51,230.00 ",Damian Woestzel,212-799-5000,60 Lincoln Center Plaza,New York,NY,10023,Private University 
+S013,University of California San Francisco," $35,985.00 ",Sam Hawgood,415-476-1000,505 Parnassus Ave,San Francisco,CA,94143,Graduate School
+S014,Pepperdine University," $59,702.00 ",Jim Gash,310-506-4000,24255 Pacific Coast Hwy,Malibu ,CA,90263,Private University 
+S015,California Institute of Arts," $56,074.00 ",Stephen Beal,661-255-1050,24700 McBean Pkway,Santa Clarita,CA,91355,Private University 
+S016,St. Joseph Universtiy - New York," $51,140.00 ",Donald R Boomgaarden,718-940-5300,245 Clinton Ave,Brooklyn,NY,11205,Private University 
+S017,Los Angeles Trade Technical College," $9,012.00 ",Alfred McQaurters,213-763-5341,400 W Washington Blvd,Los Angeles,CA,90015,Community College 

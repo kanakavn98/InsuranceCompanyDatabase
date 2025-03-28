@@ -1,0 +1,41 @@
+﻿Insurance_policy_number,Pharmacy_ID,Drug_Name,prescription_date
+IPN03,P01,Antibiotics,12-10-2022
+IPN02,P02,Chronic,06-09-2023
+IPN03,P03,Chronic,11-10-2023
+IPN04,P04,Allergy Medications,14-09-2023
+IPN05,P05,Acne Treatments,19-09-2022
+IPN02,P06,Allergy Medications,10-10-2023
+IPN07,P07,Antibiotics,14-09-2023
+IPN08,P08,,
+IPN09,P09,Insulin and Diabetic,09-10-2023
+IPN14,P10,Insulin and Diabetic,05-09-2023
+IPN11,P11,Pain Relievers,06-10-2023
+IPN12,P12,Acne Treatments,17-09-2022
+IPN13,P13,Pain Relievers,06-09-2023
+IPN14,P14,Allergy Medications,07-10-2022
+IPN15,P15,Antibiotics,05-09-2023
+IPN16,P16,Antibiotics,20-10-2022
+IPN14,P17,Insulin and Diabetic,07-09-2023
+IPN18,P18,Allergy Medications,09-10-2023
+IPN19,P19,Insulin and Diabetic,09-09-2023
+IPN20,P20,Allergy Medications,08-09-2023
+IPN21,P21,,
+IPN22,P22,Pain Relievers,23-09-2023
+IPN29,P23,Pain Relievers,21-09-2022
+IPN24,P24,Mental Health Medications,03-10-2023
+IPN25,P25,Pain Relievers,28-09-2023
+IPN26,P26,Insulin and Diabetic,04-10-2023
+IPN27,P27,Antibiotics,22-10-2023
+IPN28,P28,Acne Treatments,05-09-2022
+IPN29,P29,Chronic,05-09-2023
+IPN30,P30,Pain Relievers,05-10-2023
+IPN31,P31,Acne Treatments,02-10-2023
+IPN32,P32,Insulin and Diabetic,05-09-2023
+IPN33,P33,Pain Relievers,18-10-2022
+IPN34,P34,Allergy Medications,15-09-2023
+IPN35,P35,Chronic,11-09-2022
+IPN36,P36,,
+IPN37,P37,,
+IPN38,P38,Pain Relievers,05-09-2023
+IPN30,P39,Acne Treatments,24-10-2022
+IPN40,P40,Antibiotics,16-09-2023

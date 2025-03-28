@@ -1,0 +1,5 @@
+Insurance_Tier,Deductible,Copay,Out-of-Pocket
+GOLD,$75,$28,"$8,000.00"
+SILVER,$50,$30,"$7,500.00"
+BRONZE,$25,$34,"$5,000.00"
+PLANTIUM,$100,$22,"$8,700.00"
